@@ -11,5 +11,6 @@ namespace EMSDemo
         void DoTask();
         void DoTask1();
         void DoTask2();
+        void DoTask3();
     }
 }
