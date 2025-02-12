@@ -8,9 +8,7 @@ namespace EMSDemo
 {
     internal interface IPragya
     {
-        void DoTask()
-        {
-
-        }
+        void DoTask();
+        void DoTask1();
     }
 }
